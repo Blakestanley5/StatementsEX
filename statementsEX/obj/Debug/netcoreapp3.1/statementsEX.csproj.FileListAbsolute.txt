@@ -1,0 +1,13 @@
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\obj\Debug\netcoreapp3.1\statementsEX.csprojAssemblyReference.cache
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\obj\Debug\netcoreapp3.1\statementsEX.AssemblyInfoInputs.cache
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\obj\Debug\netcoreapp3.1\statementsEX.AssemblyInfo.cs
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\obj\Debug\netcoreapp3.1\statementsEX.csproj.CoreCompileInputs.cache
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\bin\Debug\netcoreapp3.1\statementsEX.exe
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\bin\Debug\netcoreapp3.1\statementsEX.deps.json
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\bin\Debug\netcoreapp3.1\statementsEX.runtimeconfig.json
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\bin\Debug\netcoreapp3.1\statementsEX.runtimeconfig.dev.json
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\bin\Debug\netcoreapp3.1\statementsEX.dll
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\bin\Debug\netcoreapp3.1\statementsEX.pdb
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\obj\Debug\netcoreapp3.1\statementsEX.dll
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\obj\Debug\netcoreapp3.1\statementsEX.pdb
+C:\Users\Conjur\source\repos\statementsEX\statementsEX\obj\Debug\netcoreapp3.1\statementsEX.genruntimeconfig.cache
